@@ -3,7 +3,7 @@
     "path": "~/R/BIOL_381/isaacracine.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
-    "hash": "3831461166",
+    "hash": "3340440566",
     "contents": "",
     "dirty": false,
     "created": 1613595350004.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "24,13",
-        "scrollLine": "22"
+        "cursorPosition": "102,20",
+        "scrollLine": "93"
     },
     "folds": "",
-    "lastKnownWriteTime": 1613599687,
+    "lastKnownWriteTime": 1613600311,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1613599687904,
+    "last_content_update": 1613600311098,
     "read_only": false,
     "read_only_alternatives": []
 }

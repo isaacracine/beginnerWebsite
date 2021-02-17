@@ -98,7 +98,7 @@ author:
   avatar           : "C:/Users/isaac/Pictures/Thun.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a undergradute studying Biological Sciences at the University of Vermomnt."
   location         : "Burlington, Vermont"
-  email            :
+  email            : "isaac.racine@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
