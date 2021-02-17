@@ -3,9 +3,9 @@ main:
   - title: "Current Projects"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Past Projects"
-    url: 
+    #url: 
   - title: "Resume"
-    url: 
+    #url: 
   - title: "About Me"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
