@@ -1,19 +1,17 @@
 {
-    "id": "5AF87F91",
-    "path": "~/R/BIOL_381/isaacracine.github.io/README.md",
-    "project_path": "README.md",
-    "type": "markdown",
+    "id": "0610A692",
+    "path": "~/R/BIOL_381/isaacracine.github.io/_data/ui-text.yml",
+    "project_path": "_data/ui-text.yml",
+    "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1613590044424.0,
+    "created": 1613598869509.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "109,0",
-        "scrollLine": "106"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1613071640,

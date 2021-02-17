@@ -1,19 +1,17 @@
 {
-    "id": "5AF87F91",
-    "path": "~/R/BIOL_381/isaacracine.github.io/README.md",
-    "project_path": "README.md",
-    "type": "markdown",
+    "id": "A7E27C6D",
+    "path": "~/R/BIOL_381/isaacracine.github.io/Gemfile",
+    "project_path": "Gemfile",
+    "type": "text",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1613590044424.0,
+    "created": 1613596263407.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "109,0",
-        "scrollLine": "106"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1613071640,
